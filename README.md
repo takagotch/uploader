@@ -8,7 +8,7 @@
       - model
       - view
         - dragdropupload.html
-	- ...
+	- 
       - template
       - util
       - collection
