@@ -13,7 +13,7 @@
       - util
       - collection
       - app.js
-    -lib,external
+    - lib,external
  - index.html
 
 
